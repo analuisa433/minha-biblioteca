@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=Crimson+Text:wght@400;600&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #211a16;
+  color: #f4ead8;
+  font-family: 'Crimson Text', serif;
+  font-size: 18px;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Cinzel', serif;
+  color: #f0ce91;
+}
+
+button,
+input,
+select {
+  font-family: 'Crimson Text', serif;
+}
